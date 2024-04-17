@@ -2,7 +2,7 @@
 <head>
 <title> User Registration</title>
 </head>
-<body bgcolor="blue">
+<body bgcolor="pink">
 <form>
 <body style="text-align:center;">
 <h2>Registration</h2>
